@@ -15,7 +15,7 @@
     </div>
     <div class="row container center">  
         <button type="submit" class="center-align btn red black-text center-aling waves-effect waves-light">Cadastrar</button><br> <br>
-        <a href="/login">Já tem uma conta? Entre agora!</a>
+        <a href="/login">Já possui tem uma conta? Entre agora!</a>
     </div>
     
 
